@@ -109,8 +109,9 @@ $$\text{Shape Component} = \left( \frac{1-e^{-t/\tau}}{t/\tau} - e^{-t/\tau} \ri
 
 If this component begins at zero and ultimately decays back to zero, its value must rise and fall in the intermediate maturities. This creates a hump-like mathematical structure. This is why $\beta_2$ is referred to as the shape (or curvature) parameter. It has no effect on the overnight rate and no effect on the thirty-year rate; instead, it flexes the middle of the yield curve.
 
-| ![Graph 1](tau_one.png) | ![Graph 2](tau_three.png) |
-|:---:|:---:|
+| Graph 1 | Graph 2 |
+| :---: | :---: |
+| ![Graph 1](images/tau_one.png) | ![Graph 2](images/tau_three.png) |
 
 ### Visualizing the Factor Loadings 🎨📊
 
