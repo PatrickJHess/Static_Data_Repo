@@ -111,7 +111,7 @@ If this component begins at zero and ultimately decays back to zero, its value m
 
 | Graph 1 | Graph 2 |
 | :---: | :---: |
-| ![Graph 1](./tau_one.png) | ![Graph 2](./tau_three.png) |
+| ![Graph 1](../images/tau_one.png) | ![Graph 2](../images/tau_three.png) |
 
 ### Visualizing the Factor Loadings 🎨📊
 
