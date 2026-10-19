@@ -1,20 +1,20 @@
-## 🧭 Working with Jupyter Books
+#### Working with Jupyter Books
 
 Two types of documents are utilized across this and other chapters to deliver content and code:
 
-### 📄 1. Markdown Documents (.md)
+##### 📄 1. Markdown Documents (.md)
 * **What it is:** Static text (like what you are currently reading).  
 * **Code:** Contains no executable code.  
 * **Downloads:** Available to save as a Markdown (`.md`) or PDF (`.pdf`) file.
 
-### 🧑‍💻 2. Notebook Documents (.ipynb)
+##### 🧑‍💻 2. Notebook Documents (.ipynb)
 * **What it is:** Interactive documents combining narrative text with live Python code.  
 * **Code:** Fully interactive. You can run code directly on the page or open it in a dedicated cloud environment.  
 * **Downloads:** Available to save as a Jupyter Notebook (`.ipynb`) or PDF (`.pdf`) file.
 
 ---
 
-## 🚀 Notebook Launch Options
+##### 🚀 Notebook Launch Options
 
 For `.ipynb` files, you have three ways to interact with the code:
 
@@ -28,7 +28,7 @@ For `.ipynb` files, you have three ways to interact with the code:
 
 ---
 
-## 🎯 Summary
+##### 🎯 Summary
 
 Think of this Jupyter Book as a unique hybrid learning tool. It navigates like a modern website and reads with the narrative flow of an ebook, but packs the interactive computational power of Jupyter and Google Colab. By allowing you to manipulate real-world data and execute live code directly on the page, it seamlessly bridges the gap between abstract financial theory and applied modeling.
 
