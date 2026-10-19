@@ -1,4 +1,4 @@
-## 🪐 Working with Jupyter Books
+## 🧭 Working with Jupyter Books
 
 Two types of documents are utilized across this and other chapters to deliver content and code:
 
