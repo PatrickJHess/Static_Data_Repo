@@ -18,7 +18,7 @@ Two types of documents are utilized across this and other chapters to deliver co
 
 For `.ipynb` files, you have three ways to interact with the code:
 
-* - **Run Live Code:** Click the **Live Code** (<img src="https://raw.githubusercontent.com/PatrickJHess/Static_Data_Repo/main/images/start-button.svg" height="18" alt="start button"> icon) at the top of a notebook page to execute code directly inside the book.ame repository.*
+*  **Run Live Code:** Click the **Live Code** (<img src="https://raw.githubusercontent.com/PatrickJHess/Static_Data_Repo/main/images/start-button.svg" height="18" alt="start button"> icon) at the top of a notebook page to execute code directly insideinside the HTML file.
 * **Quick Launch:** The first cell in every notebook includes direct links to open the environment in **Colab** or **Binder**.  
   * **Colab:** Requires a free Google account, but is fast and seamless.  
   * **Binder:** No account required, but has the same loading times and limits as the Live Code option.
