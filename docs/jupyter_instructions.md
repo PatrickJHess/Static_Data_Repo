@@ -26,9 +26,6 @@ For `.ipynb` files, you have three ways to interact with the code:
 
 > **💡 Pro-Tip:** Hover over the upper-right corner of any code cell or block to reveal a clipboard icon for **One-Click Copying**.
 
----
 
-##### 🎯 Summary
 
-Think of this Jupyter Book as a unique hybrid learning tool. It navigates like a modern website and reads with the narrative flow of an ebook, but packs the interactive computational power of Jupyter and Google Colab. By allowing you to manipulate real-world data and execute live code directly on the page, it seamlessly bridges the gap between abstract financial theory and applied modeling.
 
